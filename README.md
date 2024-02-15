@@ -1,4 +1,4 @@
-# ines-certification
+# ines-certify
 
 Open certification process for energy system models
 
