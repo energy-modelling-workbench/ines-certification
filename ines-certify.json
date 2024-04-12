@@ -1,0 +1,41 @@
+{
+    "entity_classes": [
+        [
+            "tool",
+            [],
+            null,
+            281246450775340,
+            false
+        ]
+    ],
+    "parameter_definitions": [
+        [
+            "tool",
+            "time",
+            null,
+            null,
+            "Time to build and run the model."
+        ],
+        [
+            "tool",
+            "objective value",
+            null,
+            null,
+            "Value of the objective function in the model."
+        ],
+        [
+            "tool",
+            "number of variables",
+            null,
+            null,
+            "Number of variables in the model."
+        ],
+        [
+            "tool",
+            "number of constraints",
+            null,
+            null,
+            "Number of constraints in the model."
+        ]
+    ]
+}
